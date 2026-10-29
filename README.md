@@ -71,8 +71,8 @@ Inside a tool dialog: `Enter` = calculate, `Ctrl + Enter` = insert the result in
 ### Run
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone: https://github.com/Codersanjeet12/Fitness_Calculator.git
+cd https://github.com/Codersanjeet12/Fitness_Calculator.git
 python Proj2_calculator.py
 ```
 
